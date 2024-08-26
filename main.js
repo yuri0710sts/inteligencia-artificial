@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Mudanças climaticas!",
-                afirmacao: "Promover práticas agriculas sustentavéis, reduzindo o uso de pesticidas e adotar métodos de controle de pragas mais naturais. "
+                afirmacao: "As mudanças climáticas também alteram a duração do ciclo de vida de alguns insetos, afetando diretamente as interações inseto-planta, hospedeiro-parasitoide e presa-predador "
             },
             {
                 texto: "Perda de habitats naturais",
-                afirmacao: "Proteger e restaurar habitats essenciais para a sobrevivência dos insetos."
+                afirmacao: "A perda ou fragmentação destes habitats altera a dinâmica dos ecossistemas promovendo o declínio de populações até a extinção das espécies."
             }
         ]
     },
